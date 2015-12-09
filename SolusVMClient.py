@@ -10,7 +10,7 @@ import re
 import json
 import requests
 
-class SolusClient:
+class SolusVMClient:
     """
     SolusVM API client
     """
